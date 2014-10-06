@@ -1,11 +1,13 @@
 Tweets #RencNum
 =======================
 Ensemble des tweets des Rencontres Numériques organisées par le Ministère de la Culture et de la Communication
-- Sujet : Le Web sémantique pour les Sciences Humaines et Sociales
+- Intitulé : Rencontre "Médiation & numérique dans les équipements culturels"
+- Thème : Jeunesse et l'éducation artistique et culturelle.
 - Date : du 6 au 7 octobre 2014
 - Lieu: Centre Pompidou
 + Pour plus d'info sur l'évènement: http://www.rencontres-numeriques.org/2014/mediation/docs/Rencontre-mediation-4-programme.pdf
 
+ATTENTION : Pour le moment, seuls les tweets du 1er jours sont disponibles. 
 -----
 
 2 fichiers :
