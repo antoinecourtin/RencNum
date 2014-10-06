@@ -7,7 +7,7 @@ Ensemble des tweets des Rencontres Numériques organisées par le Ministère de 
 - Lieu: Centre Pompidou
 + Pour plus d'info sur l'évènement: http://www.rencontres-numeriques.org/2014/mediation/docs/Rencontre-mediation-4-programme.pdf
 
-ATTENTION : Pour le moment, seuls les tweets du 1er jours sont disponibles. 
+ATTENTION : Pour le moment, seuls les tweets du 1er jours sont disponibles.
 -----
 
 2 fichiers :
@@ -20,7 +20,7 @@ Quelques chiffres pour la 1er journée :
 
 - 2230 tweets au total
 - 1797 twwets (sans les spams càd les tweets issue de comptes spams ou de comptes relayant les #TT)
-- 78 comptes ayant tweeté au moins une fois avec le hashtags
+- 597 comptes ayant tweeté au moins une fois avec le hashtags (en comptant tous les compts spammeurs)
 
 
 Utilisateurs | Nbre de tweets | Nbre de mention | % de RT
