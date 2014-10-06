@@ -34,6 +34,4 @@ krismkrolls|	38|	10|	66%|
 _omr	|38	|34	|53%|
 Cleliadh	|37|	47|	3%|
 
-Work in progress
-![alt tag](https://raw.github.com/username/projectname/branch/path/to/img.png)
-
+![alt tag](http://www.italian-renaissance-art.com/images/galatea-raphael.jpg)
