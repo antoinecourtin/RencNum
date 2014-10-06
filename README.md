@@ -4,7 +4,7 @@ Ensemble des tweets des Rencontres Numériques organisées par le Ministère de 
 - Sujet : Le Web sémantique pour les Sciences Humaines et Sociales
 - Date : du 6 au 7 octobre 2014
 - Lieu: Centre Pompidou
-+ Pour plus d'info sur la formation : http://www.rencontres-numeriques.org/2014/mediation/docs/Rencontre-mediation-4-programme.pdf
++ Pour plus d'info sur l'évènement: http://www.rencontres-numeriques.org/2014/mediation/docs/Rencontre-mediation-4-programme.pdf
 
 -----
 
@@ -35,4 +35,5 @@ _omr	|38	|34	|53%|
 Cleliadh	|37|	47|	3%|
 
 Work in progress
-![alt tag](http://www.casimages.com/i/141006105917413653.jpg)
+![alt tag](https://raw.github.com/username/projectname/branch/path/to/img.png)
+
