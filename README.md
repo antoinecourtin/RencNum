@@ -39,3 +39,5 @@ Cleliadh	|37|	47|	3%|
 
 Work in progress, map réalisée avec gephi
 <a href="http://www.casimages.com/i/141006105917413653.jpg" target="_blank" title="upload image"><img src="http://nsa33.casimages.com/img/2014/10/06/141006105917413653.jpg" border="0" alt="partage photo gratuit" /></a>
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Ce(tte) œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Licence Creative Commons Attribution -  Partage dans les Mêmes Conditions 4.0 International</a>.
