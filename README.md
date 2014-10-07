@@ -35,28 +35,29 @@ Cleliadh| 116	|109	|3%|
 
 
 Les 20 hashatgs les + utilisés :
-Hashtag | Nbre de tweets | 
+
+Hashtag | Nbre de tweets |
 --- | --- |
-#eval	830
-#muzeonum	723
-#TMNlab	496
-#bib	488
-#OFabulis	62
-#musées	59
-#MuseumLab	48
-#mediation	47
-#tweets	39
-#OperaDeLyon	30
-#AutomneNumérique	29
-#museogeeks	28
-#culture	25
-#fablab	25
-#MotsCroises	24
-#Marseille	22
-#communication	21
-#reseauxsociaux	21
-#CourageJules	20
-#numérique	20
+eval	830
+muzeonum	723
+TMNlab	496
+bib	488
+OFabulis	62
+musées	59
+MuseumLab	48
+mediation	47
+tweets	39
+OperaDeLyon	30
+AutomneNumérique	29
+museogeeks	28
+culture	25
+fablab	25
+MotsCroises	24
+Marseille	22
+communication	21
+reseauxsociaux	21
+CourageJules	20
+numérique	20
 
 
 ### Lundi 6 octobre 2014
