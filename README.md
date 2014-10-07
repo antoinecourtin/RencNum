@@ -13,7 +13,8 @@ ATTENTION : Pour le moment, seuls les tweets du 1er jours sont disponibles.
 2 fichiers :
 - Tweets_6octobre.csv: export CSV des tweets sans modifications a posteriori
 - Tweets_6octobre_V2.csv: fichier modifié avec seulement comme info : id + Time + Source + Hashtags + Target (pour ces deux dernières info, extraction grâce à des REGEX)
-> Délimiteur utilisé: virgule ; Encodage : UTF-8
+
+ > Délimiteur utilisé: virgule ; Encodage : UTF-8
 -----
 
 Quelques chiffres pour la 1er journée :
@@ -36,5 +37,5 @@ krismkrolls|	38|	10|	66%|
 _omr	|38	|34	|53%|
 Cleliadh	|37|	47|	3%|
 
-Work in progress, map réalisée avec gephi 
+Work in progress, map réalisée avec gephi
 <a href="http://www.casimages.com/i/141006105917413653.jpg" target="_blank" title="upload image"><img src="http://nsa33.casimages.com/img/2014/10/06/141006105917413653.jpg" border="0" alt="partage photo gratuit" /></a>
