@@ -8,12 +8,12 @@ Ensemble des tweets des Rencontres Numériques organisées par le Ministère de 
 + Pour plus d'info sur l'évènement: http://www.rencontres-numeriques.org/2014/mediation/docs/Rencontre-mediation-4-programme.pdf
 
 #####Info Techniques
-Fichiers CSV
-Délimiteur utilisé: virgule
-Encodage : UTF-8
-Tweets collectés grâce à la nouvelle version 6.0 de TagsV6: http://tags.hawksey.info/
-Données manipulées avec OpenRefine (pour séparer les hashtags et les mentions)
-Visualisation avec Gephi
+- Fichiers CSV
+- Délimiteur utilisé: virgule
+- Encodage : UTF-8
+- Tweets collectés grâce à la nouvelle version 6.0 de TagsV6: http://tags.hawksey.info/
+- Données manipulées avec OpenRefine (pour séparer les hashtags et les mentions)
+- Visualisation avec Gephi
 
 -----
 ### Lundi 6 octobre 2014
