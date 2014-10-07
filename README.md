@@ -59,6 +59,7 @@ reseauxsociaux|	21|
 CourageJules|	20|
 numérique|	20|
 
+<a href="http://www.casimages.com/i/141007113552384633.png" target="_blank" title="upload image"><img src="http://nsa33.casimages.com/img/2014/10/07/141007113552384633.png" border="0" alt="partage photo gratuit" /></a>
 
 ### Lundi 6 octobre 2014
 
