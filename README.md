@@ -12,7 +12,7 @@ ATTENTION : Pour le moment, seuls les tweets du 1er jours sont disponibles.
 
 2 fichiers :
 - Tweets_6octobre.csv: export CSV des tweets sans modifications a posteriori
-- Tweets_6octobre_V2.csv: fichier modifié avec seulement comme info : id + User + Time + Hashtags + Mentions (pour ces deux dernières info, extraction grâce à des REGEX)
+- Tweets_6octobre_V2.csv: fichier modifié avec seulement comme info : id + Time + Source + Hashtags + Target (pour ces deux dernières info, extraction grâce à des REGEX)
 > Délimiteur utilisé: virgule ; Encodage : UTF-8
 -----
 
