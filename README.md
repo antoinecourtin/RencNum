@@ -13,12 +13,12 @@ ATTENTION : Pour le moment, seuls les tweets du 1er jours sont disponibles.
 2 fichiers :
 - Tweets_6octobre.csv: export CSV des tweets sans modifications a posteriori
 - Tweets_6octobre_V2.csv: fichier modifié avec seulement comme info : id + User + Time + Hashtags + Mentions (pour ces deux dernières info, extraction grâce à des REGEX)
-
+> Délimiteur utilisé: virgule ; Encodage : UTF-8
 -----
 
 Quelques chiffres pour la 1er journée :
 
-- 2230 tweets au total
+- 2198 tweets au total (en comptabilisant les 38 tweets envoyés avant l'évènement)
 - 1797 twwets (sans les spams càd les tweets issue de comptes spams ou de comptes relayant les #TT)
 - 597 comptes ayant tweeté au moins une fois avec le hashtags (en comptant tous les compts spammeurs)
 
