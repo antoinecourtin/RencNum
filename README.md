@@ -1,5 +1,5 @@
 #Archive des Tweets #RencNum
-=======================
+---
 Ensemble des tweets des Rencontres Numériques organisées par le Ministère de la Culture et de la Communication
 - Intitulé : Rencontre "Médiation & numérique dans les équipements culturels"
 - Thème : Jeunesse et l'éducation artistique et culturelle.
@@ -8,6 +8,7 @@ Ensemble des tweets des Rencontres Numériques organisées par le Ministère de 
 + Pour plus d'info sur l'évènement: http://www.rencontres-numeriques.org/2014/mediation/docs/Rencontre-mediation-4-programme.pdf
 
 #####Info Techniques
+- Deux répertoires (1 par jours)
 - Fichiers CSV
 - Délimiteur utilisé: virgule
 - Encodage : UTF-8
@@ -17,9 +18,11 @@ Ensemble des tweets des Rencontres Numériques organisées par le Ministère de 
 
 -----
 ### Lundi 6 octobre 2014
-2 fichiers :
-- Tweets_6octobre.csv: export CSV des tweets sans modifications a posteriori
-- Tweets_6octobre_V2.csv: fichier modifié avec seulement comme info : id + Time + Source + Hashtags + Target (pour ces deux dernières info, extraction grâce à des REGEX)
+
+Répertoire: 6_octobre
+- 2 fichiers :
+  - Tweets_6octobre.csv: export CSV des tweets sans modifications a posteriori
+  - Tweets_6octobre_V2.csv: fichier modifié avec seulement comme info : id + Time + Source + Hashtags + Target (pour ces deux dernières info, extraction grâce à des REGEX)
 
 Quelques chiffres pour la 1er journée :
 
