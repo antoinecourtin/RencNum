@@ -37,4 +37,4 @@ _omr	|38	|34	|53%|
 Cleliadh	|37|	47|	3%|
 
 Work in progress, map réalisée avec gephi https://www.dropbox.com/s/z0x0ursmqmi55z2/rencnum.jpeg?dl=0
-<a href="http://www.casimages.com/i/141006105917413653.jpg" title="stockage photo gratuit" target="_blank"><img src="http://nsa33.casimages.com/img/2014/10/06/mini_141006105917413653.jpg" border="0" alt="stocker des photos" /></a>
+<a href="https://www.dropbox.com/s/z0x0ursmqmi55z2/rencnum.jpeg?dl=0" title="stockage photo gratuit" target="_blank"><img src="https://www.dropbox.com/s/z0x0ursmqmi55z2/rencnum.jpeg?dl=0" border="0" alt="stocker des photos" /></a>
