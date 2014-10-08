@@ -12,9 +12,9 @@ Ensemble des tweets des Rencontres Numériques organisées par le Ministère de 
 - Fichiers CSV
 - Délimiteur utilisé: virgule
 - Encodage : UTF-8
-- Tweets collectés grâce à la nouvelle version 6.0 de TagsV6: http://tags.hawksey.info/
+- Tweets collectés grâce à la nouvelle version 6.0 de Tags: http://tags.hawksey.info/
 - Données manipulées avec OpenRefine (pour séparer les hashtags et les mentions + clustering de certains hashtags [ex: #OperaDeLyon (15); #operadelyon(10) ; #operadeLyon(3) ; #OperadeLyon(2)]
-- Visualisation avec Gephi
+- Visualisation avec Gephi + export avec sigma.js (dossier network)
 
 -----
 ### Quelques chiffres sur l'ensemble des 2 jours
